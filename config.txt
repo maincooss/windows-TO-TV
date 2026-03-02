@@ -1,0 +1,12 @@
+# 配置文件（UTF-8）
+# 1) chromePath: chrome.exe 完整路径
+# 2) userDataDir: Chrome 用户数据目录
+# 3) channels: 频道地址，使用 | 分隔
+# 4) shutdownKey: 关机键（支持：A-Z、0-9、NUMPAD0-9、F1-F12、ESC/ENTER/SPACE、方向键LEFT/RIGHT/UP/DOWN、TAB/BACKSPACE/DELETE/HOME/END/PGUP/PGDN/INS、或直接填虚拟键码数字）
+# 5) lastpage: 上次成功打开的频道网址（程序会自动更新）
+
+chromePath=C:\Program Files\Google\Chrome\Application\chrome.exe
+userDataDir=C:\chrome_kiosk
+channels=https://tv.cctv.com/live/cctv1|https://tv.cctv.com/live/cctv3|https://tv.cctv.com/live/cctv6|https://tv.cctv.com/live/cctv7|https://tv.cctv.com/live/cctv9|https://tv.cctv.com/live/cctv10|https://tv.cctv.com/live/cctv11|https://tv.cctv.com/live/cctv12|https://tv.cctv.com/live/cctv13|https://tv.cctv.com/live/cctv17
+shutdownKey=NUMPAD9
+lastpage=https://tv.cctv.com/live/cctv10
