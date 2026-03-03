@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CCTV.vcxproj" Id="a39dd7b0-76fd-4982-b229-f43585cc3d5e" />
+</Solution>
